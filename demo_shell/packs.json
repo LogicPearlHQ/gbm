@@ -1,0 +1,9 @@
+{
+  "packs": [
+    {
+      "label": "GBM Treatment And Trial Navigator",
+      "description": "Standalone runtime-only static export for the GBM navigator.",
+      "manifest": "../gbm_trial_readiness/demo_manifest.json"
+    }
+  ]
+}

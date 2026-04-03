@@ -1,0 +1,52 @@
+[
+  {
+    "dataset_id": "gdc_tcga_gbm",
+    "title": "NCI GDC TCGA-GBM",
+    "human_summary": "Core GBM tumor-genomics program with somatic variants, copy-number, expression, methylation, and linked clinical metadata; open and controlled-access layers.",
+    "url": "https://gdc.cancer.gov/about-data/publications/gbm_2013",
+    "access": "mixed",
+    "dataset_type": "genomics",
+    "disease_focus": "gbm_specific",
+    "note": "Useful as a baseline molecular reference set and for cohort-level biomarker comparisons."
+  },
+  {
+    "dataset_id": "gdc_tcga_lgg_gbm",
+    "title": "NCI GDC TCGA Pan-Glioma Cohorts",
+    "human_summary": "Combined glioma genomics across lower-grade glioma and GBM for broader IDH, MGMT, and progression-context comparisons.",
+    "url": "https://portal.gdc.cancer.gov/",
+    "access": "mixed",
+    "dataset_type": "genomics",
+    "disease_focus": "glioma_broad",
+    "note": "Helpful when a question needs GBM versus broader diffuse-glioma context."
+  },
+  {
+    "dataset_id": "ivy_gap",
+    "title": "Ivy Glioblastoma Atlas Project",
+    "human_summary": "Region-resolved glioblastoma atlas with anatomic and molecular context across tumor subregions.",
+    "url": "https://glioblastoma.alleninstitute.org/",
+    "access": "open",
+    "dataset_type": "atlas",
+    "disease_focus": "gbm_specific",
+    "note": "Useful for spatial biology and tumor-microenvironment interpretation."
+  },
+  {
+    "dataset_id": "cbioportal_gbm",
+    "title": "cBioPortal GBM Studies",
+    "human_summary": "Searchable GBM and glioma genomics knowledgebase spanning TCGA and many published studies with mutation, CNA, and outcome views.",
+    "url": "https://www.cbioportal.org/",
+    "access": "open",
+    "dataset_type": "knowledgebase",
+    "disease_focus": "gbm_specific",
+    "note": "Useful for rapid cross-study biomarker lookups and recurrence of alterations."
+  },
+  {
+    "dataset_id": "cptac_gbm",
+    "title": "CPTAC Brain / Glioblastoma Proteogenomic Resources",
+    "human_summary": "Proteomic and proteogenomic tumor data relevant to GBM biology and pathway activation beyond DNA-only signals.",
+    "url": "https://proteomics.cancer.gov/programs/cptac",
+    "access": "mixed",
+    "dataset_type": "proteomics",
+    "disease_focus": "glioma_broad",
+    "note": "Useful when DNA findings need protein-level context."
+  }
+]
